@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "6687e7867566cf7c738650f4"
+  },
+  "name": "Alice B. Porter",
+  "image": "https://i.ibb.co/wpjNftS/user-2.jpg",
+  "email": "porter@gmail.com",
+  "phone": "708-628-3122",
+  "status": "Active",
+  "password": "$2a$10$/XFwXzdhte5Hf4/26XcYp.zKD29dwq37IXCYupFJ8MMbxETYWh3L6",
+  "role": "Admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6687e7867566cf7c738650f3"
+  },
+  "name": "Dorothy R. Brown",
+  "image": "https://i.ibb.co/wpjNftS/user-2.jpg",
+  "email": "dorothy@gmail.com",
+  "phone": "708-628-3122",
+  "status": "Active",
+  "password": "$2a$10$bgVCK7t05gQts7RMMNOFbO6sUsgHKJA346XwcZlzXnac9zyc/M.EO",
+  "role": "Admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6687e7867566cf7c738650f6"
+  },
+  "name": "Shawn E. Palmer",
+  "image": "https://i.ibb.co/wpjNftS/user-2.jpg",
+  "email": "palmer@gmail.com",
+  "phone": "902-628-3122",
+  "status": "Active",
+  "password": "$2a$10$G9PLnL/a76jkmVzTm/o0kOlAbbkasb8aLmqueMFMOuP5CRt2E.72q",
+  "role": "CEO",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6687e7867566cf7c738650f5"
+  },
+  "name": "Corrie H. Cates",
+  "image": "https://i.ibb.co/wpjNftS/user-2.jpg",
+  "email": "corrie@gmail.com",
+  "phone": "708-628-3122",
+  "status": "Active",
+  "password": "$2a$10$EQxoLL5Bj90gqBoohcFRVOc39hyeInhffWm0fwLLCeU95xto1aVCa",
+  "role": "Admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6687e7867566cf7c738650f7"
+  },
+  "name": "Stacey J. Meikle",
+  "image": "https://i.ibb.co/wpjNftS/user-2.jpg",
+  "email": "meikle@gmail.com",
+  "phone": "102-628-3122",
+  "status": "Active",
+  "password": "$2a$10$8pvkQU0VD/uBPyZ5uGsN5e2M6GM0M5IStbuZ1J0ysUlPLgeXTEpDC",
+  "role": "Manager",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-05T12:31:02.004Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6689bb998a67f8e8e3587d22"
+  },
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "status": "Active",
+  "password": "$2a$10$XRY5jfhqLZ2Y8UoPCMqIK.V/kuUHVn22u7UwUlFCNAjoq8wy9tyUS",
+  "role": "Admin",
+  "createdAt": {
+    "$date": "2024-07-06T21:48:09.639Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-06T21:48:09.639Z"
+  },
+  "__v": 0
+}]

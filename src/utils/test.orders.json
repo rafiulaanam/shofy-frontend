@@ -1,0 +1,1901 @@
+[{
+  "_id": {
+    "$oid": "645f5c0a2143136895d1f477"
+  },
+  "user": {
+    "$oid": "6459dee18d3f535cd6997f07"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "Logitech",
+        "id": "6412eae89c2275a25d09541d"
+      },
+      "category": {
+        "name": "Headphones",
+        "id": "6419723bd7dc5155c04350d3"
+      },
+      "_id": "641e887d05f9ee1717e1348a",
+      "sku": "NTB7SDVX44",
+      "img": "https://i.ibb.co/WVdTgR8/headphone-1.png",
+      "title": "Headphones Wireless.",
+      "slug": "headphones-wireless.",
+      "unit": "3pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Purply Blue",
+            "clrCode": "#C1BAE4"
+          },
+          "img": "https://i.ibb.co/WVdTgR8/headphone-1.png",
+          "_id": "641e887d05f9ee1717e1348b"
+        },
+        {
+          "color": {
+            "name": "Light Grey",
+            "clrCode": "#D8D7DD"
+          },
+          "img": "https://i.ibb.co/zh9x3Q0/headphone-2.png",
+          "_id": "641e887d05f9ee1717e1348c"
+        },
+        {
+          "color": {
+            "name": "Baby Pink",
+            "clrCode": "#F3C0D1"
+          },
+          "img": "https://i.ibb.co/JBZk7sS/headphone-3.png",
+          "_id": "641e887d05f9ee1717e1348d"
+        },
+        {
+          "color": {
+            "name": "Bluish Cyan",
+            "clrCode": "#64BFD1"
+          },
+          "img": "https://i.ibb.co/SrPq3r0/headphone-4.png",
+          "_id": "641e887d05f9ee1717e1348e"
+        }
+      ],
+      "parent": "Headphones",
+      "children": "Bluetooth Headphones",
+      "price": 120,
+      "discount": 14,
+      "quantity": 12,
+      "status": "in-stock",
+      "reviews": [],
+      "productType": "electronics",
+      "description": "Jabra Evolve2 75 USB-A MS Teams Stereo Headset The Jabra Evolve2 75 USB-A MS Teams Stereo Headset has replaced previous hybrid working standards. Industry-leading call quality thanks to top-notch audio engineering. With this intelligent headset, you can stay connected and productive from the first call of the day to the last train home. With an ergonomic earcup design, this headset invented a brand-new dual-foam technology. You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions. So that you may receive Active Noise-Cancellation (ANC) performance that is even greater in a headset that you can wear for whatever length you wish. The headset also offers MS Teams Certifications and other features like Busylight, Calls controls, Voice guiding, and Wireless range (ft): Up to 100 feet. Best-in-class. Boom The most recent Jabra Evolve2 75 USB-A MS Teams Stereo Headset offers professional-grade call performance that leads the industry, yet Evolve2 75 wins best-in-class. Additionally, this includes a redesigned microphone boom arm that is 33 percent shorter than the Evolve 75 and offers the industry-leading call performance for which Jabra headsets are known. It complies with Microsoft's Open Office criteria and is specially tuned for outstanding conversations in open-plan workplaces and other loud environments when the microphone boom arm is lowered in Performance Mode.",
+      "additionalInformation": [
+        {
+          "key": "Standing screen display size",
+          "value": "Screen display Size 10.4"
+        },
+        {
+          "key": "Colors",
+          "value": "Purply Blue, Light Grey, Baby Pink, Bluish Cyan"
+        },
+        {
+          "key": "Screen Resolution",
+          "value": "1920 x 1200 Pixels"
+        },
+        {
+          "key": "Max Screen Resolution",
+          "value": "2000 x 1200"
+        },
+        {
+          "key": "Processor",
+          "value": "2.3 GHz (128 GB)"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "featured": false,
+      "sellCount": 1,
+      "__v": 0,
+      "createdAt": "2023-03-25T05:37:01.352Z",
+      "updatedAt": "2023-03-25T05:37:01.352Z",
+      "tags": [
+        "Headphones",
+        "Bluetooth "
+      ],
+      "orderQuantity": 1
+    }
+  ],
+  "name": "Naim Ahmed",
+  "address": "Dhaka",
+  "email": "naim.themepure@gmail.com",
+  "contact": "3524654564",
+  "city": "Sunamganj",
+  "country": "bangladesh",
+  "zipCode": "1234",
+  "subTotal": 230,
+  "shippingCost": 60,
+  "discount": 0,
+  "totalAmount": 290,
+  "shippingOption": "on",
+  "paymentMethod": "COD",
+  "invoice": 1000,
+  "status": "pending",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-07-05T12:31:00.186Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-05T12:31:00.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "668c940d0898ada63b0f3cd8"
+  },
+  "user": {
+    "$oid": "668c90f001bb1e7665b76e2d"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "Logitech",
+        "id": "6412eae89c2275a25d09541d"
+      },
+      "category": {
+        "name": "Headphones",
+        "id": "6419723bd7dc5155c04350d3"
+      },
+      "_id": "641e887d05f9ee1717e1348a",
+      "sku": "NTB7SDVX44",
+      "img": "https://i.ibb.co/WVdTgR8/headphone-1.png",
+      "title": "Headphones Wireless.",
+      "slug": "headphones-wireless.",
+      "unit": "3pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Purply Blue",
+            "clrCode": "#C1BAE4"
+          },
+          "img": "https://i.ibb.co/WVdTgR8/headphone-1.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386502b"
+        },
+        {
+          "color": {
+            "name": "Light Grey",
+            "clrCode": "#D8D7DD"
+          },
+          "img": "https://i.ibb.co/zh9x3Q0/headphone-2.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386502c"
+        },
+        {
+          "color": {
+            "name": "Baby Pink",
+            "clrCode": "#F3C0D1"
+          },
+          "img": "https://i.ibb.co/JBZk7sS/headphone-3.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386502d"
+        },
+        {
+          "color": {
+            "name": "Bluish Cyan",
+            "clrCode": "#64BFD1"
+          },
+          "img": "https://i.ibb.co/SrPq3r0/headphone-4.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386502e"
+        }
+      ],
+      "parent": "Headphones",
+      "children": "Bluetooth Headphones",
+      "price": 120,
+      "discount": 14,
+      "quantity": 12,
+      "status": "in-stock",
+      "reviews": [
+        {
+          "_id": "6461c46a9154b65448da799f",
+          "userId": {
+            "_id": "645f7e130ba9d3c3ea50555a",
+            "name": "Paul R. Bruns",
+            "email": "paul@gmail.com"
+          },
+          "productId": "641e887d05f9ee1717e1348a",
+          "rating": 5,
+          "comment": "This is nice product",
+          "__v": 0,
+          "createdAt": "2024-07-05T12:31:01.391Z",
+          "updatedAt": "2024-07-05T12:31:01.391Z"
+        }
+      ],
+      "productType": "electronics",
+      "description": "Jabra Evolve2 75 USB-A MS Teams Stereo Headset The Jabra Evolve2 75 USB-A MS Teams Stereo Headset has replaced previous hybrid working standards. Industry-leading call quality thanks to top-notch audio engineering. With this intelligent headset, you can stay connected and productive from the first call of the day to the last train home. With an ergonomic earcup design, this headset invented a brand-new dual-foam technology. You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions. So that you may receive Active Noise-Cancellation (ANC) performance that is even greater in a headset that you can wear for whatever length you wish. The headset also offers MS Teams Certifications and other features like Busylight, Calls controls, Voice guiding, and Wireless range (ft): Up to 100 feet. Best-in-class. Boom The most recent Jabra Evolve2 75 USB-A MS Teams Stereo Headset offers professional-grade call performance that leads the industry, yet Evolve2 75 wins best-in-class. Additionally, this includes a redesigned microphone boom arm that is 33 percent shorter than the Evolve 75 and offers the industry-leading call performance for which Jabra headsets are known. It complies with Microsoft's Open Office criteria and is specially tuned for outstanding conversations in open-plan workplaces and other loud environments when the microphone boom arm is lowered in Performance Mode.",
+      "additionalInformation": [
+        {
+          "key": "Standing screen display size",
+          "value": "Screen display Size 10.4"
+        },
+        {
+          "key": "Colors",
+          "value": "Purply Blue, Light Grey, Baby Pink, Bluish Cyan"
+        },
+        {
+          "key": "Screen Resolution",
+          "value": "1920 x 1200 Pixels"
+        },
+        {
+          "key": "Max Screen Resolution",
+          "value": "2000 x 1200"
+        },
+        {
+          "key": "Processor",
+          "value": "2.3 GHz (128 GB)"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "Headphones",
+        "Bluetooth "
+      ],
+      "sizes": [],
+      "featured": false,
+      "sellCount": 1,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.406Z",
+      "updatedAt": "2024-07-05T12:30:58.406Z",
+      "orderQuantity": 1
+    }
+  ],
+  "name": "Bryam Leon",
+  "address": "dasdas",
+  "email": "bleon23@autonoma.edu.pe",
+  "contact": "906174531",
+  "city": "Lima",
+  "country": "Peru",
+  "zipCode": "12311",
+  "subTotal": 120,
+  "shippingCost": 60,
+  "discount": 0,
+  "totalAmount": 180,
+  "shippingOption": "on",
+  "cardInfo": {
+    "id": "pm_1PaSyWGndYsQkAEFM13icTO0",
+    "object": "payment_method",
+    "allow_redisplay": "unspecified",
+    "billing_details": {
+      "address": {
+        "city": null,
+        "country": null,
+        "line1": null,
+        "line2": null,
+        "postal_code": "12342",
+        "state": null
+      },
+      "email": null,
+      "name": null,
+      "phone": null
+    },
+    "card": {
+      "brand": "visa",
+      "checks": {
+        "address_line1_check": null,
+        "address_postal_code_check": null,
+        "cvc_check": null
+      },
+      "country": "US",
+      "display_brand": "visa",
+      "exp_month": 8,
+      "exp_year": 2028,
+      "funding": "credit",
+      "generated_from": null,
+      "last4": "4242",
+      "networks": {
+        "available": [
+          "visa"
+        ],
+        "preferred": null
+      },
+      "three_d_secure_usage": {
+        "supported": true
+      },
+      "wallet": null
+    },
+    "created": 1720488972,
+    "customer": null,
+    "livemode": false,
+    "type": "card"
+  },
+  "paymentMethod": "Card",
+  "orderNote": "",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-07-09T01:36:13.347Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T01:36:13.347Z"
+  },
+  "invoice": 1001,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d6772e3f710248e014d79"
+  },
+  "user": {
+    "$oid": "668d6565ca1bf0c93bde21c5"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "Lenovo",
+        "id": "6415796b0bb49c3eb913bd50"
+      },
+      "category": {
+        "name": "Bluetooth",
+        "id": "6419723bd7dc5155c04350d7"
+      },
+      "offerDate": {
+        "startDate": "2023-05-29T18:00:00.000Z",
+        "endDate": "2023-08-29T18:00:00.000Z"
+      },
+      "_id": "641e887d05f9ee1717e134cf",
+      "sku": "DF8SDVX33",
+      "img": "https://i.ibb.co/fvXHr2Y/blutooth-1.png",
+      "title": "Lenovo Sports Bluetooth",
+      "slug": "lenovo-sports-bluetooth",
+      "unit": "7pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Black",
+            "clrCode": "#31363C"
+          },
+          "img": "https://i.ibb.co/fvXHr2Y/blutooth-1.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865063"
+        },
+        {
+          "color": {
+            "name": "Yellow",
+            "clrCode": "#DEDD80"
+          },
+          "img": "https://i.ibb.co/D920WSP/blutooth-2.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865064"
+        },
+        {
+          "color": {
+            "name": "Light Gray",
+            "clrCode": "#C2C2C2"
+          },
+          "img": "https://i.ibb.co/Kw36W0G/blutooth-3.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865065"
+        }
+      ],
+      "parent": "Bluetooth",
+      "children": "Sports Bluetooth",
+      "price": 70,
+      "discount": 5,
+      "quantity": 7,
+      "status": "in-stock",
+      "reviews": [],
+      "productType": "electronics",
+      "description": "Starlight Aluminum Case with Braided Solo Loop The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy. The Braided Solo Loop is made from recycled yarn and silicone threads for an ultracomfortable, stretchable design with no clasps or buckles.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Black, Yellow, Light Gray"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "bluetooth",
+        "sports "
+      ],
+      "sizes": [],
+      "featured": false,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.415Z",
+      "updatedAt": "2024-07-05T12:30:58.415Z",
+      "orderQuantity": 4
+    }
+  ],
+  "name": "Bryam Leon",
+  "address": "dsadasdasf",
+  "email": "bleon.lsua@gmail.com",
+  "contact": "906174531",
+  "city": "Lima",
+  "country": "Peru",
+  "zipCode": "153121",
+  "subTotal": 280,
+  "shippingCost": 20,
+  "discount": 0,
+  "totalAmount": 300,
+  "shippingOption": "on",
+  "cardInfo": {
+    "id": "pm_1Pah3NGndYsQkAEFJ9dm38aW",
+    "object": "payment_method",
+    "allow_redisplay": "unspecified",
+    "billing_details": {
+      "address": {
+        "city": null,
+        "country": null,
+        "line1": null,
+        "line2": null,
+        "postal_code": "42132",
+        "state": null
+      },
+      "email": null,
+      "name": null,
+      "phone": null
+    },
+    "card": {
+      "brand": "visa",
+      "checks": {
+        "address_line1_check": null,
+        "address_postal_code_check": null,
+        "cvc_check": null
+      },
+      "country": "US",
+      "display_brand": "visa",
+      "exp_month": 8,
+      "exp_year": 2028,
+      "funding": "credit",
+      "generated_from": null,
+      "last4": "4242",
+      "networks": {
+        "available": [
+          "visa"
+        ],
+        "preferred": null
+      },
+      "three_d_secure_usage": {
+        "supported": true
+      },
+      "wallet": null
+    },
+    "created": 1720543089,
+    "customer": null,
+    "livemode": false,
+    "type": "card"
+  },
+  "paymentMethod": "Card",
+  "orderNote": "dsadasdsa",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-07-09T16:38:10.664Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T16:38:10.664Z"
+  },
+  "invoice": 1002,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668d7f988999ce54d43e6456"
+  },
+  "user": {
+    "$oid": "668d6565ca1bf0c93bde21c5"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "Sony",
+        "id": "641522d9cd2724817c1c7c38"
+      },
+      "category": {
+        "name": "Smart Watch",
+        "id": "6419723bd7dc5155c04350d6"
+      },
+      "offerDate": {
+        "startDate": "2023-04-24T18:00:00.000Z",
+        "endDate": "2023-06-24T18:00:00.000Z"
+      },
+      "_id": "641e887d05f9ee1717e134c6",
+      "sku": "EG8SDVX74",
+      "img": "https://i.ibb.co/fMhtt2T/watch-9.png",
+      "title": "Sony Lady Fitness Watch",
+      "slug": "sony-lady-fitness-watch",
+      "unit": "10pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Black",
+            "clrCode": "#333333"
+          },
+          "img": "https://i.ibb.co/fMhtt2T/watch-9.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505a"
+        },
+        {
+          "color": {
+            "name": "Oyster Pink",
+            "clrCode": "#F2C4B4"
+          },
+          "img": "https://i.ibb.co/HK6jnjP/watch-10.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505b"
+        },
+        {
+          "color": {
+            "name": "Dawn Pink",
+            "clrCode": "#C9AFB0"
+          },
+          "img": "https://i.ibb.co/RNrDzH7/watch-11.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505c"
+        },
+        {
+          "color": {
+            "name": "Light Gray",
+            "clrCode": "#1F1F21"
+          },
+          "img": "https://i.ibb.co/HCzgB0m/watch-12.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505d"
+        }
+      ],
+      "parent": "Smart Watch",
+      "children": "Fitness Smart Watch",
+      "price": 150,
+      "discount": 3,
+      "quantity": 7,
+      "status": "in-stock",
+      "reviews": [
+        {
+          "_id": "6461c5b99154b65448da7a38",
+          "userId": "645f7e130ba9d3c3ea50555a",
+          "productId": "641e887d05f9ee1717e134c6",
+          "rating": 4,
+          "comment": "This is nice product",
+          "__v": 0,
+          "createdAt": "2024-07-05T12:31:01.391Z",
+          "updatedAt": "2024-07-05T12:31:01.391Z"
+        },
+        {
+          "_id": "6462f65c5693f23f37e966d9",
+          "userId": "64621f12c16ce188c0b5cb30",
+          "productId": "641e887d05f9ee1717e134c6",
+          "rating": 5,
+          "comment": "Good",
+          "__v": 0,
+          "createdAt": "2024-07-05T12:31:01.391Z",
+          "updatedAt": "2024-07-05T12:31:01.391Z"
+        }
+      ],
+      "productType": "electronics",
+      "description": "Starlight Aluminum Case with Braided Solo Loop The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy. The Braided Solo Loop is made from recycled yarn and silicone threads for an ultracomfortable, stretchable design with no clasps or buckles.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Black, Oyster Pink, Dawn Pink, Light Gray"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "watch",
+        "fitness"
+      ],
+      "sizes": [],
+      "featured": true,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.411Z",
+      "updatedAt": "2024-07-05T12:30:58.411Z",
+      "orderQuantity": 1
+    },
+    {
+      "brand": {
+        "name": "Apple",
+        "id": "6415479cfba1a43da8287e20"
+      },
+      "category": {
+        "name": "Mobile Tablets",
+        "id": "6419723bd7dc5155c04350d4"
+      },
+      "_id": "641d4106dbfab7b02ab28b22",
+      "sku": "CF7SDVX72",
+      "img": "https://i.ibb.co/kxGMcrw/ipad-1.png",
+      "title": "Apple iPad Air",
+      "slug": "apple-iPad-air",
+      "unit": "12pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Gray",
+            "clrCode": "#D1CFE4"
+          },
+          "img": "https://i.ibb.co/kxGMcrw/ipad-1.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865042"
+        },
+        {
+          "color": {
+            "name": "Black",
+            "clrCode": "#929095"
+          },
+          "img": "https://i.ibb.co/NpWzRPL/ipad-2.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865043"
+        },
+        {
+          "color": {
+            "name": "Moonstone Blue",
+            "clrCode": "#9DC1D1"
+          },
+          "img": "https://i.ibb.co/bzgBZ4Y/ipad-3.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865044"
+        }
+      ],
+      "parent": "Mobile Tablets",
+      "children": "Apple",
+      "price": 999,
+      "discount": 5,
+      "quantity": 13,
+      "status": "in-stock",
+      "reviews": [],
+      "productType": "electronics",
+      "description": "Jabra Evolve2 75 USB-A MS Teams Stereo Headset The Jabra Evolve2 75 USB-A MS Teams Stereo Headset has replaced previous hybrid working standards. Industry-leading call quality thanks to top-notch audio engineering. With this intelligent headset, you can stay connected and productive from the first call of the day to the last train home. With an ergonomic earcup design, this headset invented a brand-new dual-foam technology. You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions. So that you may receive Active Noise-Cancellation (ANC) performance that is even greater in a headset that you can wear for whatever length you wish. The headset also offers MS Teams Certifications and other features like Busylight, Calls controls, Voice guiding, and Wireless range (ft): Up to 100 feet. Best-in-class. Boom The most recent Jabra Evolve2 75 USB-A MS Teams Stereo Headset offers professional-grade call performance that leads the industry, yet Evolve2 75 wins best-in-class. Additionally, this includes a redesigned microphone boom arm that is 33 percent shorter than the Evolve 75 and offers the industry-leading call performance for which Jabra headsets are known. It complies with Microsoft's Open Office criteria and is specially tuned for outstanding conversations in open-plan workplaces and other loud environments when the microphone boom arm is lowered in Performance Mode.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Gray, Black, Moonstone Blue"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "Mobile ",
+        "Ipad",
+        "Apple"
+      ],
+      "sizes": [],
+      "featured": true,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.409Z",
+      "updatedAt": "2024-07-05T12:30:58.409Z",
+      "orderQuantity": 2
+    },
+    {
+      "brand": {
+        "name": "Lenovo",
+        "id": "6415796b0bb49c3eb913bd50"
+      },
+      "category": {
+        "name": "Bluetooth",
+        "id": "6419723bd7dc5155c04350d7"
+      },
+      "offerDate": {
+        "startDate": "2023-05-29T18:00:00.000Z",
+        "endDate": "2023-08-29T18:00:00.000Z"
+      },
+      "_id": "641e887d05f9ee1717e134cf",
+      "sku": "DF8SDVX33",
+      "img": "https://i.ibb.co/fvXHr2Y/blutooth-1.png",
+      "title": "Lenovo Sports Bluetooth",
+      "slug": "lenovo-sports-bluetooth",
+      "unit": "7pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Black",
+            "clrCode": "#31363C"
+          },
+          "img": "https://i.ibb.co/fvXHr2Y/blutooth-1.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865063"
+        },
+        {
+          "color": {
+            "name": "Yellow",
+            "clrCode": "#DEDD80"
+          },
+          "img": "https://i.ibb.co/D920WSP/blutooth-2.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865064"
+        },
+        {
+          "color": {
+            "name": "Light Gray",
+            "clrCode": "#C2C2C2"
+          },
+          "img": "https://i.ibb.co/Kw36W0G/blutooth-3.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865065"
+        }
+      ],
+      "parent": "Bluetooth",
+      "children": "Sports Bluetooth",
+      "price": 70,
+      "discount": 5,
+      "quantity": 7,
+      "status": "in-stock",
+      "reviews": [],
+      "productType": "electronics",
+      "description": "Starlight Aluminum Case with Braided Solo Loop The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy. The Braided Solo Loop is made from recycled yarn and silicone threads for an ultracomfortable, stretchable design with no clasps or buckles.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Black, Yellow, Light Gray"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "bluetooth",
+        "sports "
+      ],
+      "sizes": [],
+      "featured": false,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.415Z",
+      "updatedAt": "2024-07-05T12:30:58.415Z",
+      "orderQuantity": 1
+    }
+  ],
+  "name": "asdsad sadasd",
+  "address": "adjansfjas",
+  "email": "bleon.lsua@gmail.com",
+  "contact": "906174531",
+  "city": "lima",
+  "country": "peru",
+  "zipCode": "141421",
+  "subTotal": 2218,
+  "shippingCost": 20,
+  "discount": 0,
+  "totalAmount": 2238,
+  "shippingOption": "on",
+  "cardInfo": {
+    "id": "pm_1Paif5GndYsQkAEFPK5wqKtD",
+    "object": "payment_method",
+    "allow_redisplay": "unspecified",
+    "billing_details": {
+      "address": {
+        "city": null,
+        "country": null,
+        "line1": null,
+        "line2": null,
+        "postal_code": "42131",
+        "state": null
+      },
+      "email": null,
+      "name": null,
+      "phone": null
+    },
+    "card": {
+      "brand": "visa",
+      "checks": {
+        "address_line1_check": null,
+        "address_postal_code_check": null,
+        "cvc_check": null
+      },
+      "country": "US",
+      "display_brand": "visa",
+      "exp_month": 8,
+      "exp_year": 2028,
+      "funding": "credit",
+      "generated_from": null,
+      "last4": "4242",
+      "networks": {
+        "available": [
+          "visa"
+        ],
+        "preferred": null
+      },
+      "three_d_secure_usage": {
+        "supported": true
+      },
+      "wallet": null
+    },
+    "created": 1720549271,
+    "customer": null,
+    "livemode": false,
+    "type": "card"
+  },
+  "paymentMethod": "Card",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-07-09T18:21:12.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T18:21:12.380Z"
+  },
+  "invoice": 1003,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e38c84e7ce4ebdee44b2e"
+  },
+  "user": {
+    "$oid": "668e36804a8a46836d422aab"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "Antec",
+        "id": "6415545493b3f0f2c7ec7ffa"
+      },
+      "category": {
+        "name": "CPU Heat Pipes",
+        "id": "6419723bd7dc5155c04350d5"
+      },
+      "offerDate": {
+        "startDate": "2023-05-11T18:00:00.000Z",
+        "endDate": "2023-07-11T18:00:00.000Z"
+      },
+      "_id": "641e887d05f9ee1717e134b2",
+      "sku": "DF7SDVX75",
+      "img": "https://i.ibb.co/tpypd3B/cpu-5.png",
+      "title": "Antec Air Cooler",
+      "slug": "antec-air-cooler",
+      "unit": "15pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Black",
+            "clrCode": "#3A3A3A"
+          },
+          "img": "https://i.ibb.co/tpypd3B/cpu-5.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386504b"
+        },
+        {
+          "color": {
+            "name": "Silver",
+            "clrCode": "#4E534F"
+          },
+          "img": "https://i.ibb.co/wwNDDSG/cpu-6.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386504c"
+        },
+        {
+          "color": {
+            "name": "Gray",
+            "clrCode": "#0E0E0E"
+          },
+          "img": "https://i.ibb.co/sHRhjSC/cpu-7.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386504d"
+        },
+        {
+          "color": {
+            "name": "Light Gray",
+            "clrCode": "#7C7C7C"
+          },
+          "img": "https://i.ibb.co/vDrwNFX/cpu-8.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386504e"
+        }
+      ],
+      "parent": "CPU Heat Pipes",
+      "children": "Air CPU Cooler",
+      "price": 80,
+      "discount": 0,
+      "quantity": 5,
+      "status": "in-stock",
+      "reviews": [],
+      "productType": "electronics",
+      "description": "Antec ICE EDGE MINI FS V2.0 CPU Air Cooler DeepCool ICE EDGE MINI FS V2.0 CPU Air Cooler is AMD AM4 Ready. (NOTE: Refer to FM2+/ FM2/ FM1/ AM3+/ AM3/ AM2+/ AM2 for the manuals). It is equipped with multiple clips to support Intel LGA1155/ 1156/ 775 and AMD AM4/ AM3/ AM2+/ AM2/ K8. It has 2 sintered metal powder heatpipes directly contacting the CPU surface for removing heat and eliminating chances of overheating. It features specialized aluminum heatsink construction for efficient heat dissipation. TPE fan housing designed to absorb operating vibration and reduce fan noise. it has a 1-year warranty.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Black, Silver, Gray, Light Gray"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "cpu",
+        "air cooler"
+      ],
+      "sizes": [],
+      "featured": false,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.410Z",
+      "updatedAt": "2024-07-05T12:30:58.410Z",
+      "orderQuantity": 1
+    }
+  ],
+  "name": "jajang nurjaman",
+  "address": "jalan jalan",
+  "email": "jajang@gmail.com",
+  "contact": "087771553534",
+  "city": "jakarta",
+  "country": "indonesia",
+  "zipCode": "12560",
+  "subTotal": 80,
+  "shippingCost": 60,
+  "discount": 0,
+  "totalAmount": 140,
+  "shippingOption": "on",
+  "paymentMethod": "COD",
+  "orderNote": "",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-07-10T07:31:20.662Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T07:31:20.662Z"
+  },
+  "invoice": 1004,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668e39314e7ce4ebdee44bab"
+  },
+  "user": {
+    "$oid": "668e36804a8a46836d422aab"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "INIKA",
+        "id": "642508be253d81bc860d4d24"
+      },
+      "category": {
+        "name": "Facial Care",
+        "id": "64240fb4253d81bc860d4cf8"
+      },
+      "_id": "64252172253d81bc860d4dbe",
+      "sku": "DGB7SDVX62",
+      "img": "https://i.ibb.co/p06Mk0H/makeup-1.png",
+      "title": "Wet Dewy Cream Beige",
+      "slug": "wet-dewy-cream-beige",
+      "unit": "12pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Lion",
+            "clrCode": "#BE9770"
+          },
+          "img": "https://i.ibb.co/p06Mk0H/makeup-1.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386509c"
+        },
+        {
+          "color": {
+            "name": "Pickled Bean",
+            "clrCode": "#654631"
+          },
+          "img": "https://i.ibb.co/9ttBnfM/makeup-2.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386509d"
+        },
+        {
+          "color": {
+            "name": "Tumbleweed",
+            "clrCode": "#D4A987"
+          },
+          "img": "https://i.ibb.co/sbpNm8n/makeup-3.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386509e"
+        },
+        {
+          "color": {
+            "name": "Bullet Shell",
+            "clrCode": "#BC955E"
+          },
+          "img": "https://i.ibb.co/M5z3jP1/makeup-4.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386509f"
+        }
+      ],
+      "parent": "Facial Care",
+      "children": "Makeup Brush",
+      "price": 90,
+      "discount": 5,
+      "quantity": 6,
+      "status": "in-stock",
+      "reviews": [],
+      "productType": "beauty",
+      "description": "Achieve that sun-kissed glow with the Baked Mineral Bronzer from INIKA. Perfect for contouring, the loose powder adds a subtle and natural tanned tone to skin, perfectly complementing fair to medium complexions. Lightweight and non-cakey, it effortlessly sculpts and defines cheekbones to leave skin looking healthy and radiant. Certified Vegan. Cruelty free.",
+      "additionalInformation": [
+        {
+          "key": "GREAT FOR LAYERING",
+          "value": "Mini waffle fabric construction"
+        },
+        {
+          "key": "Colors",
+          "value": "Wine Berry , Dirty Blue"
+        },
+        {
+          "key": "LEGENDARY STYLING",
+          "value": "Cute keyhole notch neck with custom"
+        },
+        {
+          "key": "CUFF DETAILS",
+          "value": "Velvet details with lace trim on the cuffs"
+        },
+        {
+          "key": "FEMIMINE HEMLINE",
+          "value": "Fashionable curved hem"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "facial care",
+        "makeup brush"
+      ],
+      "sizes": [],
+      "featured": false,
+      "sellCount": 1,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.419Z",
+      "updatedAt": "2024-07-05T12:30:58.419Z",
+      "orderQuantity": 1
+    }
+  ],
+  "name": "jajang nurjaman",
+  "address": "jalan jalan",
+  "email": "jajang@gmail.com",
+  "contact": "087771553534",
+  "city": "jakarta",
+  "country": "indonesia",
+  "zipCode": "12560",
+  "subTotal": 90,
+  "shippingCost": 20,
+  "discount": 0,
+  "totalAmount": 110,
+  "shippingOption": "on",
+  "paymentMethod": "COD",
+  "orderNote": "",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-07-10T07:33:05.737Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-10T07:33:05.737Z"
+  },
+  "invoice": 1005,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669135077b26c482d46a297f"
+  },
+  "user": {
+    "$oid": "669134607b26c482d46a2810"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "Lenovo",
+        "id": "6415796b0bb49c3eb913bd50"
+      },
+      "category": {
+        "name": "Bluetooth",
+        "id": "6419723bd7dc5155c04350d7"
+      },
+      "offerDate": {
+        "startDate": "2023-05-29T18:00:00.000Z",
+        "endDate": "2023-08-29T18:00:00.000Z"
+      },
+      "_id": "641e887d05f9ee1717e134cf",
+      "sku": "DF8SDVX33",
+      "img": "https://i.ibb.co/fvXHr2Y/blutooth-1.png",
+      "title": "Lenovo Sports Bluetooth",
+      "slug": "lenovo-sports-bluetooth",
+      "unit": "7pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Black",
+            "clrCode": "#31363C"
+          },
+          "img": "https://i.ibb.co/fvXHr2Y/blutooth-1.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865063"
+        },
+        {
+          "color": {
+            "name": "Yellow",
+            "clrCode": "#DEDD80"
+          },
+          "img": "https://i.ibb.co/D920WSP/blutooth-2.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865064"
+        },
+        {
+          "color": {
+            "name": "Light Gray",
+            "clrCode": "#C2C2C2"
+          },
+          "img": "https://i.ibb.co/Kw36W0G/blutooth-3.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865065"
+        }
+      ],
+      "parent": "Bluetooth",
+      "children": "Sports Bluetooth",
+      "price": 70,
+      "discount": 5,
+      "quantity": 7,
+      "status": "in-stock",
+      "reviews": [],
+      "productType": "electronics",
+      "description": "Starlight Aluminum Case with Braided Solo Loop The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy. The Braided Solo Loop is made from recycled yarn and silicone threads for an ultracomfortable, stretchable design with no clasps or buckles.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Black, Yellow, Light Gray"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "bluetooth",
+        "sports "
+      ],
+      "sizes": [],
+      "featured": false,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.415Z",
+      "updatedAt": "2024-07-05T12:30:58.415Z",
+      "orderQuantity": 1
+    }
+  ],
+  "name": "Rafiul Anam",
+  "address": "Dewaner Chok, Shahporan",
+  "email": "rafiulaanam@gmail.com",
+  "contact": "01701916034",
+  "city": "Sylhet",
+  "country": "Bangladesh",
+  "zipCode": "3103",
+  "subTotal": 70,
+  "shippingCost": 60,
+  "discount": 0,
+  "totalAmount": 130,
+  "shippingOption": "on",
+  "cardInfo": {
+    "id": "pm_1PbjtIGndYsQkAEF0BxLtN9v",
+    "object": "payment_method",
+    "allow_redisplay": "unspecified",
+    "billing_details": {
+      "address": {
+        "city": null,
+        "country": null,
+        "line1": null,
+        "line2": null,
+        "postal_code": "24424",
+        "state": null
+      },
+      "email": null,
+      "name": null,
+      "phone": null
+    },
+    "card": {
+      "brand": "visa",
+      "checks": {
+        "address_line1_check": null,
+        "address_postal_code_check": null,
+        "cvc_check": null
+      },
+      "country": "US",
+      "display_brand": "visa",
+      "exp_month": 8,
+      "exp_year": 2028,
+      "funding": "credit",
+      "generated_from": null,
+      "last4": "4242",
+      "networks": {
+        "available": [
+          "visa"
+        ],
+        "preferred": null
+      },
+      "three_d_secure_usage": {
+        "supported": true
+      },
+      "wallet": null
+    },
+    "created": 1720792324,
+    "customer": null,
+    "livemode": false,
+    "type": "card"
+  },
+  "paymentIntent": {
+    "id": "pi_3Pbjt0GndYsQkAEF1KmGERDi",
+    "object": "payment_intent",
+    "amount": 13000,
+    "automatic_payment_methods": null,
+    "canceled_at": null,
+    "cancellation_reason": null,
+    "capture_method": "automatic",
+    "client_secret": "pi_3Pbjt0GndYsQkAEF1KmGERDi_secret_PjsMPSigPZzXdluuxoK9ANOOl",
+    "confirmation_method": "automatic",
+    "created": 1720792306,
+    "currency": "usd",
+    "description": null,
+    "last_payment_error": null,
+    "livemode": false,
+    "next_action": null,
+    "payment_method": "pm_1PbjtJGndYsQkAEFH74yMw2X",
+    "payment_method_configuration_details": null,
+    "payment_method_types": [
+      "card"
+    ],
+    "processing": null,
+    "receipt_email": null,
+    "setup_future_usage": null,
+    "shipping": null,
+    "source": null,
+    "status": "succeeded"
+  },
+  "paymentMethod": "Card",
+  "orderNote": "",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-07-12T13:52:07.408Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T13:52:07.408Z"
+  },
+  "invoice": 1006,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66914455d1c683e540f4f333"
+  },
+  "user": {
+    "$oid": "66914429d1c683e540f4f20b"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "Apple",
+        "id": "6415479cfba1a43da8287e20"
+      },
+      "category": {
+        "name": "Mobile Tablets",
+        "id": "6419723bd7dc5155c04350d4"
+      },
+      "_id": "641e887d05f9ee1717e1349f",
+      "sku": "AF7SDVX65",
+      "img": "https://i.ibb.co/3WMPkkf/mobile-5.png",
+      "title": "iPhone 14 Pro",
+      "slug": "iPhone-14-pro",
+      "unit": "10pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Lunar Green",
+            "clrCode": "#33422B"
+          },
+          "img": "https://i.ibb.co/3WMPkkf/mobile-5.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386503d"
+        },
+        {
+          "color": {
+            "name": "Dark",
+            "clrCode": "#292C31"
+          },
+          "img": "https://i.ibb.co/MfdxWfv/mobile-6.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386503e"
+        },
+        {
+          "color": {
+            "name": "Red Wine",
+            "clrCode": "#BA1827"
+          },
+          "img": "https://i.ibb.co/vV22rXc/mobile-7.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386503f"
+        },
+        {
+          "color": {
+            "name": "Peach Schnapps",
+            "clrCode": "#EAD2CE"
+          },
+          "img": "https://i.ibb.co/Kby3sY7/mobile-8.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865040"
+        }
+      ],
+      "parent": "Mobile Tablets",
+      "children": "Apple",
+      "price": 1199,
+      "discount": 15,
+      "quantity": 20,
+      "status": "in-stock",
+      "reviews": [
+        {
+          "_id": "6463026f9eb7e8a0fc8b3457",
+          "userId": {
+            "_id": "645f7e130ba9d3c3ea50555a",
+            "name": "Paul R. Bruns",
+            "email": "paul@gmail.com"
+          },
+          "productId": "641e887d05f9ee1717e1349f",
+          "rating": 5,
+          "comment": "Average product",
+          "__v": 0,
+          "createdAt": "2024-07-05T12:31:01.391Z",
+          "updatedAt": "2024-07-05T12:31:01.391Z"
+        }
+      ],
+      "productType": "electronics",
+      "description": "Jabra Evolve2 75 USB-A MS Teams Stereo Headset The Jabra Evolve2 75 USB-A MS Teams Stereo Headset has replaced previous hybrid working standards. Industry-leading call quality thanks to top-notch audio engineering. With this intelligent headset, you can stay connected and productive from the first call of the day to the last train home. With an ergonomic earcup design, this headset invented a brand-new dual-foam technology. You will be comfortable from the first call to the last thanks to the re-engineered leatherette ear cushion design that allows for better airflow. We can provide exceptional noise isolation and the best all-day comfort by mixing firm foam for the outer with soft foam for the interior of the ear cushions. So that you may receive Active Noise-Cancellation (ANC) performance that is even greater in a headset that you can wear for whatever length you wish. The headset also offers MS Teams Certifications and other features like Busylight, Calls controls, Voice guiding, and Wireless range (ft): Up to 100 feet. Best-in-class. Boom The most recent Jabra Evolve2 75 USB-A MS Teams Stereo Headset offers professional-grade call performance that leads the industry, yet Evolve2 75 wins best-in-class. Additionally, this includes a redesigned microphone boom arm that is 33 percent shorter than the Evolve 75 and offers the industry-leading call performance for which Jabra headsets are known. It complies with Microsoft's Open Office criteria and is specially tuned for outstanding conversations in open-plan workplaces and other loud environments when the microphone boom arm is lowered in Performance Mode.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Lunar Green, Dark, Red Wine, Peach Schnapps"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "Mobile ",
+        "Tablets",
+        "Apple"
+      ],
+      "sizes": [],
+      "featured": true,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.408Z",
+      "updatedAt": "2024-07-05T12:30:58.408Z",
+      "orderQuantity": 1
+    }
+  ],
+  "name": "Nisamdeen Shareek",
+  "address": "Ward No-01,Nilaveli,Trincomalee",
+  "email": "ccute0014@gmail.com",
+  "contact": "0769042667",
+  "city": "Tricomalee",
+  "country": "Sri Lanka",
+  "zipCode": "31010",
+  "subTotal": 1199,
+  "shippingCost": 20,
+  "discount": 0,
+  "totalAmount": 1219,
+  "shippingOption": "on",
+  "paymentMethod": "COD",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-07-12T14:57:25.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T14:57:25.305Z"
+  },
+  "invoice": 1007,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66926d3b41b0d76c8c0259e2"
+  },
+  "user": {
+    "$oid": "669134607b26c482d46a2810"
+  },
+  "cart": [
+    {
+      "brand": {
+        "name": "Sony",
+        "id": "641522d9cd2724817c1c7c38"
+      },
+      "category": {
+        "name": "Smart Watch",
+        "id": "6419723bd7dc5155c04350d6"
+      },
+      "offerDate": {
+        "startDate": "2023-04-24T18:00:00.000Z",
+        "endDate": "2023-06-24T18:00:00.000Z"
+      },
+      "_id": "641e887d05f9ee1717e134c6",
+      "sku": "EG8SDVX74",
+      "img": "https://i.ibb.co/fMhtt2T/watch-9.png",
+      "title": "Sony Lady Fitness Watch",
+      "slug": "sony-lady-fitness-watch",
+      "unit": "10pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Black",
+            "clrCode": "#333333"
+          },
+          "img": "https://i.ibb.co/fMhtt2T/watch-9.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505a"
+        },
+        {
+          "color": {
+            "name": "Oyster Pink",
+            "clrCode": "#F2C4B4"
+          },
+          "img": "https://i.ibb.co/HK6jnjP/watch-10.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505b"
+        },
+        {
+          "color": {
+            "name": "Dawn Pink",
+            "clrCode": "#C9AFB0"
+          },
+          "img": "https://i.ibb.co/RNrDzH7/watch-11.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505c"
+        },
+        {
+          "color": {
+            "name": "Light Gray",
+            "clrCode": "#1F1F21"
+          },
+          "img": "https://i.ibb.co/HCzgB0m/watch-12.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505d"
+        }
+      ],
+      "parent": "Smart Watch",
+      "children": "Fitness Smart Watch",
+      "price": 150,
+      "discount": 3,
+      "quantity": 7,
+      "status": "in-stock",
+      "reviews": [
+        {
+          "_id": "6461c5b99154b65448da7a38",
+          "userId": "645f7e130ba9d3c3ea50555a",
+          "productId": "641e887d05f9ee1717e134c6",
+          "rating": 4,
+          "comment": "This is nice product",
+          "__v": 0,
+          "createdAt": "2024-07-05T12:31:01.391Z",
+          "updatedAt": "2024-07-05T12:31:01.391Z"
+        },
+        {
+          "_id": "6462f65c5693f23f37e966d9",
+          "userId": "64621f12c16ce188c0b5cb30",
+          "productId": "641e887d05f9ee1717e134c6",
+          "rating": 5,
+          "comment": "Good",
+          "__v": 0,
+          "createdAt": "2024-07-05T12:31:01.391Z",
+          "updatedAt": "2024-07-05T12:31:01.391Z"
+        }
+      ],
+      "productType": "electronics",
+      "description": "Starlight Aluminum Case with Braided Solo Loop The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy. The Braided Solo Loop is made from recycled yarn and silicone threads for an ultracomfortable, stretchable design with no clasps or buckles.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Black, Oyster Pink, Dawn Pink, Light Gray"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "watch",
+        "fitness"
+      ],
+      "sizes": [],
+      "featured": true,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.411Z",
+      "updatedAt": "2024-07-05T12:30:58.411Z",
+      "orderQuantity": 1
+    },
+    {
+      "brand": {
+        "name": "Lenovo",
+        "id": "6415796b0bb49c3eb913bd50"
+      },
+      "category": {
+        "name": "Bluetooth",
+        "id": "6419723bd7dc5155c04350d7"
+      },
+      "_id": "641e887d05f9ee1717e134cb",
+      "sku": "DG8SDVX32",
+      "img": "https://i.ibb.co/RYST3Ym/blutooth-4.png",
+      "title": "Lenovo Wireless Bluetooth",
+      "slug": "lenovo-wireless-bluetooth",
+      "unit": "7pcs",
+      "imageURLs": [
+        {
+          "color": {
+            "name": "Red Wine",
+            "clrCode": "#D94043"
+          },
+          "img": "https://i.ibb.co/RYST3Ym/blutooth-4.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c7386505f"
+        },
+        {
+          "color": {
+            "name": "Conifer",
+            "clrCode": "#B4D842"
+          },
+          "img": "https://i.ibb.co/SXSdbjM/blutooth-5.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865060"
+        },
+        {
+          "color": {
+            "name": "Silver",
+            "clrCode": "#414141"
+          },
+          "img": "https://i.ibb.co/L12vDxf/blutooth-6.png",
+          "sizes": [],
+          "_id": "6687e7827566cf7c73865061"
+        }
+      ],
+      "parent": "Bluetooth",
+      "children": "Wireless Bluetooth",
+      "price": 70,
+      "discount": 5,
+      "quantity": 7,
+      "status": "in-stock",
+      "reviews": [
+        {
+          "_id": "6461f6098a8552beef539317",
+          "userId": "6461f490aae01ae021285ecb",
+          "productId": "641e887d05f9ee1717e134cb",
+          "rating": 3,
+          "comment": "Good product",
+          "__v": 0,
+          "createdAt": "2024-07-05T12:31:01.391Z",
+          "updatedAt": "2024-07-05T12:31:01.391Z"
+        },
+        {
+          "_id": "64620d3b8a8552beef5394ca",
+          "userId": "6461f490aae01ae021285ecb",
+          "productId": "641e887d05f9ee1717e134cb",
+          "rating": 5,
+          "comment": "Awesome",
+          "__v": 0,
+          "createdAt": "2024-07-05T12:31:01.391Z",
+          "updatedAt": "2024-07-05T12:31:01.391Z"
+        }
+      ],
+      "productType": "electronics",
+      "description": "Starlight Aluminum Case with Braided Solo Loop The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy. The Braided Solo Loop is made from recycled yarn and silicone threads for an ultracomfortable, stretchable design with no clasps or buckles.",
+      "additionalInformation": [
+        {
+          "key": "Announced",
+          "value": "2023, February"
+        },
+        {
+          "key": "Colors",
+          "value": "Black, Conifer, Silver"
+        },
+        {
+          "key": "Technology",
+          "value": "GSM / HSPA / LTE"
+        },
+        {
+          "key": "3G bands",
+          "value": "HSDPA 800 / 850 / 900 / 1900 / 2100"
+        },
+        {
+          "key": "4G bands",
+          "value": "1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 40, 41"
+        },
+        {
+          "key": "Graphics Coprocessor",
+          "value": "Exynos 9611, Octa Core (4x2.3GHz + 4x1.7GHz)"
+        },
+        {
+          "key": "Wireless Type",
+          "value": "802.11a/b/g/n/ac, Bluetooth"
+        }
+      ],
+      "tags": [
+        "bluetooth",
+        "wireless "
+      ],
+      "sizes": [],
+      "featured": false,
+      "sellCount": 0,
+      "__v": 0,
+      "createdAt": "2024-07-05T12:30:58.411Z",
+      "updatedAt": "2024-07-05T12:30:58.411Z",
+      "orderQuantity": 1
+    }
+  ],
+  "name": "Rafiul Anam",
+  "address": "Dewaner Chok, Shahporan",
+  "email": "rafiulaanam@gmail.com",
+  "contact": "01701916034",
+  "city": "Sylhet",
+  "country": "Bangladesh",
+  "zipCode": "3103",
+  "subTotal": 220,
+  "shippingCost": 60,
+  "discount": 0,
+  "totalAmount": 280,
+  "shippingOption": "on",
+  "cardInfo": {
+    "id": "pm_1Pc4gOGndYsQkAEFQUKsfRre",
+    "object": "payment_method",
+    "allow_redisplay": "unspecified",
+    "billing_details": {
+      "address": {
+        "city": null,
+        "country": null,
+        "line1": null,
+        "line2": null,
+        "postal_code": "24242",
+        "state": null
+      },
+      "email": null,
+      "name": null,
+      "phone": null
+    },
+    "card": {
+      "brand": "visa",
+      "checks": {
+        "address_line1_check": null,
+        "address_postal_code_check": null,
+        "cvc_check": null
+      },
+      "country": "US",
+      "display_brand": "visa",
+      "exp_month": 4,
+      "exp_year": 2028,
+      "funding": "credit",
+      "generated_from": null,
+      "last4": "4242",
+      "networks": {
+        "available": [
+          "visa"
+        ],
+        "preferred": null
+      },
+      "three_d_secure_usage": {
+        "supported": true
+      },
+      "wallet": null
+    },
+    "created": 1720872248,
+    "customer": null,
+    "livemode": false,
+    "type": "card"
+  },
+  "paymentIntent": {
+    "id": "pi_3Pc4gNGndYsQkAEF1ByT0t4L",
+    "object": "payment_intent",
+    "amount": 28000,
+    "automatic_payment_methods": null,
+    "canceled_at": null,
+    "cancellation_reason": null,
+    "capture_method": "automatic",
+    "client_secret": "pi_3Pc4gNGndYsQkAEF1ByT0t4L_secret_hUTepQ9tuNPrVYgDOdNN1cUw7",
+    "confirmation_method": "automatic",
+    "created": 1720872247,
+    "currency": "usd",
+    "description": null,
+    "last_payment_error": null,
+    "livemode": false,
+    "next_action": null,
+    "payment_method": "pm_1Pc4gPGndYsQkAEFBVSXLvVg",
+    "payment_method_configuration_details": null,
+    "payment_method_types": [
+      "card"
+    ],
+    "processing": null,
+    "receipt_email": null,
+    "setup_future_usage": null,
+    "shipping": null,
+    "source": null,
+    "status": "succeeded"
+  },
+  "paymentMethod": "Card",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2024-07-13T12:04:11.420Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T12:04:11.420Z"
+  },
+  "invoice": 1008,
+  "__v": 0
+}]
