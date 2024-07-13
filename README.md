@@ -99,19 +99,19 @@ To get started with Shofy, follow these steps:
 
 ## Client Side Live Link
 
-[Shofy Client Side Live Link](https://shofy-front-end.vercel.app)
+[Shofy Client Side Live Link](https://shofy-electronics.vercel.app)
 
 ## Server Side Live Link
 
-[Shofy Server Side Live Link](http://localhost:7000)
+[Shofy Server Side Live Link](https://shofy-backend-topaz.vercel.app)
 
 ## Client Side Repo
 
-[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-client.git)
+[Shofy Client Side Repo](https://github.com/rafiulaanam/shofy-frontend.git)
 
 ## Server Side Repo
 
-[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-ecommerce-backend.git)
+[Shofy Server Side Repo](https://github.com/rafiulaanam/shofy-backend.git)
 
 ## Sources and Credits
 
